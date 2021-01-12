@@ -142,7 +142,7 @@ font-family: "Body Font", Times, serif;
 margin-top: 10%;
 width: 80%;
 margin: 0 auto;
-height: 500px;
+height: auto;
 background-color: rgb(253, 226, 192, 0.85);
 border: solid 3px black;
 margin-bottom: 10%;
